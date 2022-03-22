@@ -1,0 +1,22 @@
+instalação o linux mint e configurar ele 
+Download do Linux Mint: https://linuxmint.com/edition.php?id=292
+
+Alguns programas basicos tambem
+  
+  sudo apt update
+  sudo apt install software-properties-common build-essential lsb-core dkms
+  sudo apt install htop nmon psensor cpufrequtils cputool
+  sudo apt install ttf-mscorefonts-installer cheese guvcview v4l-utils cairo-dock vim git p7zip-full p7zip-rar
+  sudo reboot (Reinicializar o Sistema)
+  
+Github do professor Vaamonde como referencia para fazer esses procedimentos 
+Github Vaamonde: https://github.com/vaamonde/senactat/blob/main/linuxmint/01-infoway-n8645.md
+  
+  
+PC Linux - Batocera
+
+Batocera é um sistema operacional especializado em retrogaming e que está disponível
+para PC (32 e 64 bits) e diferentes computadores pequenos como o Raspberry e os Odroid batocera.
+linux é uma distribuição mínima dedicada à execução de software de retrogaming e é baseada no RecalboxOS.
+
+Procedimento do Batocera: https://github.com/vaamonde/senactat/blob/main/linuxmint/03-Batocera-DualBoot-LinuxMint.md
