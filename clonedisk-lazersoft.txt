@@ -1,0 +1,24 @@
+Clonagem de Disco com o Lazersoft
+
+O Lazesoft Recovery Suite Home é uma ferramenta muito
+poderosa e bastante útil para usuários avançados do Windows.
+Ela permite realizar várias atividades normalmente possíveis
+apenas em softwares pagos, como a clonagem de discos e a
+recuperação de arquivos perdidos no HD.
+
+Download do Lazersoft
+www.lazesoft.com/download.html
+
+Instale o Lazersoft e logo em seguida execute ele
+
+vá na aba clonar disco "clone disk"
+
+agora selecione o HD de origem (que será clonado)
+proximo "next"
+
+agora selecione o HD de destino (o HD novo)
+proximo "next"
+
+agora verifique se está certo todos as informações
+e logo em seguida aperte começar "start"
+para iniciar a clonagem
